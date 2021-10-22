@@ -1,0 +1,486 @@
+{
+    "no-attrib": true,
+    "xml_element_type": "catalog",
+    "BOOK": [
+        {
+            "id": "bk101",
+            "xml_element_type": "book",
+            "AUTHOR": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "author"
+                }
+            ],
+            "TITLE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "title"
+                }
+            ],
+            "GENRE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "genre"
+                }
+            ],
+            "PRICE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "price"
+                }
+            ],
+            "PUBLISH_DATE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "publish_date"
+                }
+            ],
+            "DESCRIPTION": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "description"
+                }
+            ]
+        },
+        {
+            "id": "bk102",
+            "xml_element_type": "book",
+            "AUTHOR": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "author"
+                }
+            ],
+            "TITLE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "title"
+                }
+            ],
+            "GENRE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "genre"
+                }
+            ],
+            "PRICE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "price"
+                }
+            ],
+            "PUBLISH_DATE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "publish_date"
+                }
+            ],
+            "DESCRIPTION": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "description"
+                }
+            ]
+        },
+        {
+            "id": "bk103",
+            "xml_element_type": "book",
+            "AUTHOR": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "author"
+                }
+            ],
+            "TITLE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "title"
+                }
+            ],
+            "GENRE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "genre"
+                }
+            ],
+            "PRICE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "price"
+                }
+            ],
+            "PUBLISH_DATE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "publish_date"
+                }
+            ],
+            "DESCRIPTION": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "description"
+                }
+            ]
+        },
+        {
+            "id": "bk104",
+            "xml_element_type": "book",
+            "AUTHOR": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "author"
+                }
+            ],
+            "TITLE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "title"
+                }
+            ],
+            "GENRE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "genre"
+                }
+            ],
+            "PRICE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "price"
+                }
+            ],
+            "PUBLISH_DATE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "publish_date"
+                }
+            ],
+            "DESCRIPTION": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "description"
+                }
+            ]
+        },
+        {
+            "id": "bk105",
+            "xml_element_type": "book",
+            "AUTHOR": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "author"
+                }
+            ],
+            "TITLE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "title"
+                }
+            ],
+            "GENRE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "genre"
+                }
+            ],
+            "PRICE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "price"
+                }
+            ],
+            "PUBLISH_DATE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "publish_date"
+                }
+            ],
+            "DESCRIPTION": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "description"
+                }
+            ]
+        },
+        {
+            "id": "bk106",
+            "xml_element_type": "book",
+            "AUTHOR": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "author"
+                }
+            ],
+            "TITLE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "title"
+                }
+            ],
+            "GENRE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "genre"
+                }
+            ],
+            "PRICE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "price"
+                }
+            ],
+            "PUBLISH_DATE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "publish_date"
+                }
+            ],
+            "DESCRIPTION": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "description"
+                }
+            ]
+        },
+        {
+            "id": "bk107",
+            "xml_element_type": "book",
+            "AUTHOR": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "author"
+                }
+            ],
+            "TITLE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "title"
+                }
+            ],
+            "GENRE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "genre"
+                }
+            ],
+            "PRICE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "price"
+                }
+            ],
+            "PUBLISH_DATE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "publish_date"
+                }
+            ],
+            "DESCRIPTION": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "description"
+                }
+            ]
+        },
+        {
+            "id": "bk108",
+            "xml_element_type": "book",
+            "AUTHOR": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "author"
+                }
+            ],
+            "TITLE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "title"
+                }
+            ],
+            "GENRE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "genre"
+                }
+            ],
+            "PRICE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "price"
+                }
+            ],
+            "PUBLISH_DATE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "publish_date"
+                }
+            ],
+            "DESCRIPTION": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "description"
+                }
+            ]
+        },
+        {
+            "id": "bk109",
+            "xml_element_type": "book",
+            "AUTHOR": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "author"
+                }
+            ],
+            "TITLE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "title"
+                }
+            ],
+            "GENRE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "genre"
+                }
+            ],
+            "PRICE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "price"
+                }
+            ],
+            "PUBLISH_DATE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "publish_date"
+                }
+            ],
+            "DESCRIPTION": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "description"
+                }
+            ]
+        },
+        {
+            "id": "bk110",
+            "xml_element_type": "book",
+            "AUTHOR": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "author"
+                }
+            ],
+            "TITLE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "title"
+                }
+            ],
+            "GENRE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "genre"
+                }
+            ],
+            "PRICE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "price"
+                }
+            ],
+            "PUBLISH_DATE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "publish_date"
+                }
+            ],
+            "DESCRIPTION": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "description"
+                }
+            ]
+        },
+        {
+            "id": "bk111",
+            "xml_element_type": "book",
+            "AUTHOR": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "author"
+                }
+            ],
+            "TITLE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "title"
+                }
+            ],
+            "GENRE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "genre"
+                }
+            ],
+            "PRICE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "price"
+                }
+            ],
+            "PUBLISH_DATE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "publish_date"
+                }
+            ],
+            "DESCRIPTION": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "description"
+                }
+            ]
+        },
+        {
+            "id": "bk112",
+            "xml_element_type": "book",
+            "AUTHOR": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "author"
+                }
+            ],
+            "TITLE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "title"
+                }
+            ],
+            "GENRE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "genre"
+                }
+            ],
+            "PRICE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "price"
+                }
+            ],
+            "PUBLISH_DATE": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "publish_date"
+                }
+            ],
+            "DESCRIPTION": [
+                {
+                    "no-attrib": true,
+                    "xml_element_type": "description"
+                }
+            ]
+        }
+    ]
+}
